@@ -1,14 +1,15 @@
 # Projeto Profissional de BI
-## _Analise da caixa de pedidos abertos,
+<h1 align="center">
+https://bi-7038.vercel.app/
+<h6> ☑ Senha para acessar o link acima => "bi7038"</h6>
+</h1>
 
-[![Link Online](Power Bi)](https://bi-7038.vercel.app/)
+### Tecnologias utilizadas.
+- [x] SQL, M, Dax , JAVA e Python
+- [x] SQL SERVER , POWER QUERY e TALEND
 
-Tecnologias utilizadas.
-
-- SQL, M, Dax , JAVA e Python
-- SQL SERVER , POWER QUERY e TALEND
-
-Insight importantes.
+### Insight importantes.
+<p align="center">
 	Taxa de conversão de instalação após a passagem na 7038 vem em descendência nos últimos 3 meses.
 	Taxa de conversão de instalação após a passagem na 7038 e de apenas 44,5% contra 82,8% da conversão da caixa da VL do mês.
 	Volume de pedidos com passagem na 7039 reduziu pela metade comparando out-21 vs dez-21.
@@ -17,6 +18,10 @@ Insight importantes.
 	A curva do Pareto das pendência após 7039 é {Curva A:7029=35.90% ,Curva B:7020=23,47%, Curva C:13.94%}
 	A curva da primeira pendência após 7039 é {Curva A:7020=57.18% ,Curva B:7029=40,65%}
 	A curva da segunda pendência após 7039 é {Curva A:7009=49.01% ,Curva B:7029=21,53%}
+</p>
 
+<div align="center">
+  <img src="https://i.ibb.co/25mwGGC/7038.png" alt="demo" height="500">
+</div>
+<hr />
 
-> Wellikiandre Martins Bosich de Souza
