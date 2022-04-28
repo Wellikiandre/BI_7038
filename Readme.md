@@ -20,8 +20,5 @@ https://bi-7038.vercel.app/
 	-A curva da segunda pendência após 7039 é {Curva A:7009=49.01% ,Curva B:7029=21,53%}
 
 
-<div align="center">
-  <img src="https://i.ibb.co/25mwGGC/7038.png" alt="demo" height="500">
-</div>
 <hr />
 
